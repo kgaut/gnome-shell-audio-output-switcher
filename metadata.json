@@ -7,6 +7,6 @@
     ], 
     "uuid": "gnome-shell-audio-output-switcher@kgaut", 
     "name": "Gnome Shell Audio Output Switcher", 
-    "description": "Adds a switch for choosing audio output to the system menu.",
+    "description": "Gnome-Shell Extension: Easily switch between your audio outputs from the system menu.",
     "url": "https://github.com/kgaut/gnome-shell-audio-output-switcher"
 }
