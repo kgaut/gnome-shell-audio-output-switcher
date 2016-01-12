@@ -17,13 +17,13 @@ INSTALL
 
 Either via 
 
-    https://extensions.gnome.org
+    https://extensions.gnome.org/extension/1028/gnome-shell-audio-output-switcher/
 
-or via
+or via git
 
     git clone git@github.com:kgaut/gnome-shell-audio-output-switcher.git ~/.local/share/gnome-shell/extensions/gnome-shell-audio-output-switcher@kgaut
 
-Then resart the gnome-shell via CTRL+F2 r and enable the extension using gnome-tweak-tool
+Then restart the gnome-shell via CTRL+F2 r and enable the extension using gnome-tweak-tool
 
 To update later, just issue
 
