@@ -1,0 +1,12 @@
+{
+    "shell-version": [
+        "3.10",
+        "3.12",
+        "3.14",
+        "3.16"
+    ], 
+    "uuid": "gnome-shell-audio-output-switcher@kgaut", 
+    "name": "Gnome Shell Audio Output Switcher", 
+    "description": "Adds a switch for choosing audio output to the system menu.",
+    "url": "https://github.com/kgaut/gnome-shell-audio-output-switcher"
+}
