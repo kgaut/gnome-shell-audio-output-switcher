@@ -1,8 +1,11 @@
-Gnome-Shell Extension Audio-Output-Switcher
-===========================================
+#Gnome-Shell Extension Audio-Output-Switcher
+
+![The menu](https://raw.githubusercontent.com/kgaut/gnome-shell-audio-output-switcher/master/screenshot.png)
+
+## About
 
 This extension adds a little entry to the status-menu that shows the currently
-selected pulse-audio-output device. Klicking on that will open a submenu with
+selected pulse-audio-output device. Clicking on that will open a submenu with
 all available output devices and let's you choose which one to use.
 
 This extension is based on anducs work at https://github.com/anduchs/audio-output-switcher but it's not supported on last version of gnome-shell
@@ -12,8 +15,8 @@ include an imput switcher or similar.
 See Audio-Input-Switcher (https://github.com/anduchs/audio-input-switcher)
 extension for microphone selection.
 
-INSTALL
-=======
+## Installation
+
 
 Either via 
 
