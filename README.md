@@ -1,6 +1,6 @@
 #Gnome-Shell Extension Audio-Output-Switcher
 
-![The menu](https://raw.githubusercontent.com/kgaut/gnome-shell-audio-output-switcher/master/screenshot.png)
+![The menu](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_1028.png)
 
 ## About
 
