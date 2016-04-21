@@ -3,7 +3,8 @@
         "3.10",
         "3.12",
         "3.14",
-        "3.16"
+        "3.16",
+        "3.20"
     ], 
     "uuid": "gnome-shell-audio-output-switcher@kgaut", 
     "name": "Gnome Shell Audio Output Switcher", 
