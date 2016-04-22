@@ -18,16 +18,15 @@ extension for microphone selection.
 ## Installation
 
 
-Either via 
-
-    https://extensions.gnome.org/extension/1028/gnome-shell-audio-output-switcher/
+Either via
+https://extensions.gnome.org/extension/1028/gnome-shell-audio-output-switcher/
 
 or via git
 
-    git clone git@github.com:kgaut/gnome-shell-audio-output-switcher.git ~/.local/share/gnome-shell/extensions/gnome-shell-audio-output-switcher@kgaut
+`git clone git@github.com:kgaut/gnome-shell-audio-output-switcher.git ~/.local/share/gnome-shell/extensions/gnome-shell-audio-output-switcher@kgaut`
 
 Then restart the gnome-shell via CTRL+F2 r and enable the extension using gnome-tweak-tool
 
 To update later, just issue
 
-    (cd ~/.local/share/gnome-shell/extensions/gnome-shell-audio-output-switcher@kgaut && git pull)
+`(cd ~/.local/share/gnome-shell/extensions/gnome-shell-audio-output-switcher@kgaut && git pull)`
