@@ -10,7 +10,7 @@
   - Gnome Shell 3.16
   - Gnome Shell 3.18
   - Gnome Shell 3.20
-  - 
+
 ## About
 
 This extension adds a little entry to the status-menu that shows the currently
