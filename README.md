@@ -29,7 +29,7 @@ or via git
 
 `git clone git@github.com:kgaut/gnome-shell-audio-output-switcher.git ~/.local/share/gnome-shell/extensions/gnome-shell-audio-output-switcher@kgaut`
 
-Then restart the gnome-shell via CTRL+F2 r and enable the extension using gnome-tweak-tool
+Then restart the gnome-shell via ALT+F2 r and enable the extension using gnome-tweak-tool
 
 To update later, just issue
 
