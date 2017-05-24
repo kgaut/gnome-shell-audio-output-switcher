@@ -1,7 +1,7 @@
 #Gnome-Shell Extension Audio-Output-Switcher
 
 
-![The menu](https://extensions.gnome.org/static/extension-data/screenshots/screenshot_1028.png)
+![The menu](https://extensions.gnome.org/extension-data/screenshots/screenshot_1028.png)
 
 ## Compatibility
   - Gnome Shell 3.10
