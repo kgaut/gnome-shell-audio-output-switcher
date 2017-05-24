@@ -9,7 +9,9 @@
         "3.20.4",
         "3.21",
         "3.21.91",
-        "3.22"
+        "3.22",
+        "3.24",
+        "3.24.1"
     ],
     "uuid": "gnome-shell-audio-output-switcher@kgaut",
     "name": "Gnome Shell Audio Output Switcher",
